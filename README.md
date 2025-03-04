@@ -2,6 +2,10 @@
 
 Category: Cloud Application Development
 
+# Project Deploy Link :
+
+https://flavour-fusion-ai-driven-recipe-blogging-qynfrjgjabuboxygcw5bp.streamlit.app/
+
 Skills Required: Machine Learning
 
 Project Description:
