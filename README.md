@@ -2,15 +2,15 @@
 
 Category: Cloud Application Development
 
-# Project Deploy Link :
+# Deployment Link :
 
 https://flavour-fusion-ai-driven-recipe-blogging-qynfrjgjabuboxygcw5bp.streamlit.app/
 
-# Project Video Demo Link :
+# Video Demo Link :
 
 https://drive.google.com/file/d/1wWlkdefxXJh7a0Ov2q1H_BSZm7FpCkrD/view?usp=drive_link
 
-# Project Document Link :
+# Document File Link :
 
 https://drive.google.com/file/d/1zP8ESPx9yNLNN38_X8TxT-BOzWg60MZw/view?usp=sharing
 
